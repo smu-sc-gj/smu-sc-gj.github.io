@@ -14,6 +14,10 @@ section.lead {
   color: #003366;
 }
 
+section {
+  color: #003366;
+}
+
 /* This is slightly dodgy, it'll only be required as a work 
 around if the developers of Marp don't add alt-text to images
 which are backgrounds */
