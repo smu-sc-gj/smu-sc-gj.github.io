@@ -11,10 +11,10 @@ section.lead {
   justify-content: center;
   position: relative;
   text-align: center;
-  color: #003366;
+  /* color: #003366; */
 }
 
-section {
+section.h1 {
   color: #003366;
 }
 
