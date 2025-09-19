@@ -11,7 +11,7 @@ section.lead {
   justify-content: center;
   position: relative;
   text-align: center;
-  color: #FFFFFF;
+  /*color: #FFFFFF;*/
 }
 
 h1 {
@@ -19,6 +19,22 @@ h1 {
 }
 
 h2, h3, h4, body {
+  color: #FFFFFF;
+}
+
+ol {
+  color: #FFFFFF;
+}
+
+ol li {
+  color: #FFFFFF;
+}
+
+ul {
+  color: #FFFFFF;
+}
+
+ul li {
   color: #FFFFFF;
 }
 
